@@ -63,7 +63,7 @@ Click the Code button on the GitHub page.
 
 - Inside this folder, locate and open the bits folder.
 
-- If you see a file named .DS_Store, delete it.
+- If you see a file named .DS_Store, delete it. If you don’t see this file, you ignore this step.
 
 - Finally, copy the entire bits folder for your use.
 
