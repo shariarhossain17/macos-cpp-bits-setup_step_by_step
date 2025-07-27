@@ -57,7 +57,7 @@ Click the Code button on the GitHub page.
 
 - Unzip the downloaded folder.
 
-6. **After cloning or downloading, follow these steps:**
+**After cloning or downloading, follow these steps:**
 
 - Open the folder named macos-cpp-bits-setup_step_by_step.
 
@@ -67,7 +67,7 @@ Click the Code button on the GitHub page.
 
 - Finally, copy the entire bits folder for your use.
 
-7. **Paste** the `bits` folder into the `atm` folder.
+6. **Paste** the `bits` folder into the `atm` folder.
 
 ---
 
