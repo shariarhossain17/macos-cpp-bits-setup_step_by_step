@@ -1,4 +1,4 @@
-# How to Add C++ `bits/stdc++.h` Header Files on macOS (VS Code)
+# Add C++ `bits/stdc++.h` Header Files on macOS (VS Code)
 
 If you're using macOS and want to use the `#include<bits/stdc++.h>` header in your C++ projects with VS Code, follow the steps below to manually set it up.
 
@@ -42,7 +42,7 @@ After some scroll This will print the include paths used by `g++`. Look for line
 
 4. **Right-click on `atm`** → **Select "Reveal in Finder"**.
 
-5. Now, \*\*clone repository the using this command
+5. Now, clone repository the using this command
 
 ```bash
 git clone https://github.com/shariarhossain17/macos-cpp-bits-setup_step_by_step.git
@@ -56,14 +56,6 @@ Click the Code button on the GitHub page.
 - Select Download ZIP.
 
 - Unzip the downloaded folder.
-
-- Open the folder named macos-cpp-bits-setup_step_by_step.
-
-- Inside this folder, locate and open the bits folder.
-
-- If you see a file named .DS_Store, delete it.
-
-- Finally, copy the entire bits folder for your use.
 
 6. **After cloning or downloading, follow these steps:**
 
