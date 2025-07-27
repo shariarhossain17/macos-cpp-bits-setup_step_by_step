@@ -14,7 +14,7 @@ Open your terminal and run the following command:
 echo | g++ -v -x c++ -E -
 ```
 
-After some scrollThis will print the include paths used by `g++`. Look for lines like the following:
+After some scroll This will print the include paths used by `g++`. Look for lines like the following:
 
 ```
  /usr/local/include
@@ -42,9 +42,40 @@ After some scrollThis will print the include paths used by `g++`. Look for lines
 
 4. **Right-click on `atm`** → **Select "Reveal in Finder"**.
 
-5. Now, **download the `bits` folder** by clicking [here](./bits/) — this will download the folder. Once downloaded, **copy** the entire folder.
+5. Now, \*\*clone repository the using this command
 
-6. **Paste** the `bits` folder into the `atm` folder.
+```bash
+git clone https://github.com/shariarhossain17/macos-cpp-bits-setup_step_by_step.git
+```
+
+Or,
+download the repository as a ZIP file by following these steps:
+
+Click the Code button on the GitHub page.
+
+- Select Download ZIP.
+
+- Unzip the downloaded folder.
+
+- Open the folder named macos-cpp-bits-setup_step_by_step.
+
+- Inside this folder, locate and open the bits folder.
+
+- If you see a file named .DS_Store, delete it.
+
+- Finally, copy the entire bits folder for your use.
+
+6. **After cloning or downloading, follow these steps:**
+
+- Open the folder named macos-cpp-bits-setup_step_by_step.
+
+- Inside this folder, locate and open the bits folder.
+
+- If you see a file named .DS_Store, delete it.
+
+- Finally, copy the entire bits folder for your use.
+
+7. **Paste** the `bits` folder into the `atm` folder.
 
 ---
 
